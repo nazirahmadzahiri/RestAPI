@@ -1,3 +1,3 @@
 # RestAPI
-Created a crud Rest API 
-Add Swagger 
+- Created a crud Rest API 
+- Add Swagger 
